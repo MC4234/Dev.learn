@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-08-30T13:25:03Z" name="Default suite" finished-at="2020-08-30T13:25:24Z" duration-ms="21900">
+    <groups>
+    </groups>
+    <test started-at="2020-08-30T13:25:03Z" name="Default test" finished-at="2020-08-30T13:25:24Z" duration-ms="21900">
+      <class name="LearnJSExecutor.JSExecutor">
+        <test-method is-config="true" signature="before()[pri:0, instance:LearnJSExecutor.JSExecutor@add0edd]" started-at="2020-08-30T13:25:03Z" name="before" finished-at="2020-08-30T13:25:14Z" duration-ms="11629" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method signature="zoom()[pri:0, instance:LearnJSExecutor.JSExecutor@add0edd]" started-at="2020-08-30T13:25:14Z" name="zoom" finished-at="2020-08-30T13:25:18Z" duration-ms="3565" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- zoom -->
+        <test-method is-config="true" signature="after()[pri:0, instance:LearnJSExecutor.JSExecutor@add0edd]" started-at="2020-08-30T13:25:18Z" name="after" finished-at="2020-08-30T13:25:24Z" duration-ms="6671" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+      </class> <!-- LearnJSExecutor.JSExecutor -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
